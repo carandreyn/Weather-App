@@ -1,0 +1,14 @@
+C:\Users\caran\Desktop\repos\Weather Application\Weather Application\obj\Debug\Weather Application.csproj.AssemblyReference.cache
+C:\Users\caran\Desktop\repos\Weather Application\Weather Application\obj\Debug\Weather Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\caran\Desktop\repos\Weather Application\Weather Application\obj\Debug\Weather_Application.Form1.resources
+C:\Users\caran\Desktop\repos\Weather Application\Weather Application\obj\Debug\Weather Application.csproj.GenerateResource.cache
+C:\Users\caran\Desktop\repos\Weather Application\Weather Application\obj\Debug\Weather_Application.Properties.Resources.resources
+C:\Users\caran\Desktop\repos\Weather Application\Weather Application\obj\Debug\Weather Application.csproj.CoreCompileInputs.cache
+C:\Users\caran\Desktop\repos\Weather Application\Weather Application\bin\Debug\Weather Application.exe.config
+C:\Users\caran\Desktop\repos\Weather Application\Weather Application\bin\Debug\Weather Application.exe
+C:\Users\caran\Desktop\repos\Weather Application\Weather Application\bin\Debug\Weather Application.pdb
+C:\Users\caran\Desktop\repos\Weather Application\Weather Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\caran\Desktop\repos\Weather Application\Weather Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\caran\Desktop\repos\Weather Application\Weather Application\obj\Debug\Weather Application.csproj.CopyComplete
+C:\Users\caran\Desktop\repos\Weather Application\Weather Application\obj\Debug\Weather Application.exe
+C:\Users\caran\Desktop\repos\Weather Application\Weather Application\obj\Debug\Weather Application.pdb
